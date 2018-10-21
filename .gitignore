@@ -2,8 +2,10 @@
 *.class
 *.classpath
 *.project
-/settings
+*.DStore
+*.settings
 /target
+
 
 # Log file
 *.log
